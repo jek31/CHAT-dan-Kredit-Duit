@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 27, 2017, 12:04:04 PM
+    Author     : JACK
+*/
+#header{
+    -fx-text-fill: darkred;
+    -fx-font-family: arial black;
+    -fx-effect: dropshadow(two-pass-box , darkgray, 10, 0.0 , 2, 3);
+}
+#tombol1{
+    -fx-font-size: 16;
+    -fx-text-fill: darkred;
+    -fx-font-family: sans-serif;
+    -fx-background-color: burlywood;
+    -fx-effect: dropshadow(two-pass-box , darkgray, 10, 0.0 , 2, 3);
+}
+#label{
+    /*-fx-font-size: 12;*/
+    -fx-text-fill: darkred;
+    -fx-font-family: sans-serif;
+    -fx-effect: dropshadow(two-pass-box , darkgray, 10, 0.0 , 2, 3);
+}
+
+#inputan{
+    -fx-text-fill: black;
+    -fx-font-family: arial;
+}
+#skip{
+    -fx-text-fill: darkred;
+    -fx-font-family: sans-serif;
+    -fx-background-color: #ffffff;
+}
+#bcover{
+    -fx-background-color: #ffffff;
+}
